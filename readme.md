@@ -63,21 +63,30 @@
 3. Make sure that your MySQL server is set to legacy configuration to avoid errors while initiating the project.<br>
 <h4><font> Initiation : </font></h4>
 1. You can either install the project in zip format from our github or clone the repository using the following link in your local directory : 
+
 ```bash
     git clone https://github.com/Spirit-ofJoy/Celesta.git 
+```
+
 2. After installing the project, extract it if you have preferred installing it in zip format and open the front end sub folder in Visual Studio Code( Considering that the default text editor is Visual Studio Code).
 3. Open a new terminal by using the following command :
-```CMD
+
+```shell
     Ctrl+Shift+`
 ```
+
 4. In the terminal run the following command to install the required node modules :
-```shell
+
+```bash
     npm install
 ```
+
 5. Module installation will take 2 to 3 minutes depending upon your network connectivity. After the modules have been installed run the following command to initiate the project : 
+
 ```bash
     npm start
 ```
+
 <!-- Contributing -->
 <p id="Contributing"><h2><font> Contributing </font></h2></p>
 Contributions are what makes the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
