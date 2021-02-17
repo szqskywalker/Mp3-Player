@@ -35,8 +35,9 @@
     </h4>
 </p>
 <font face = "Verdana"> Following are the frameworks, libraries and languages used in this project :  <UL>
-<li><a href = "https://reactjs.org/"> React Express </a> 
-<li><a href = "https://nodejs.org/"> Node JS </a>
+<li><a href = "https://reactjs.org/"> React </a> 
+<li><a href = "https://expressjs.com/"> Express.js </a>
+<li><a href = "https://nodejs.org/"> Node.js </a>
 <li><a href = "https://developer.mozilla.org/en-US/docs/Web/HTML"> HTML </a>
 <li><a href = "https://developer.mozilla.org/en-US/docs/Web/CSS"> CSS </a>
 <li><a href = "https://www.mysql.com/"> MySQL </a>
