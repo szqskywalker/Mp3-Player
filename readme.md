@@ -43,8 +43,10 @@
 </UL></font>
 <!-- UI-Design -->
 <p id="UI"><h2><font> User Interface Design </font></h2></p>
-<h3> Login Page </h3>
+<UL>
+<li><h4> Login Page </h4>
 <p align = center><img src = "https://github.com/Spirit-ofJoy/Celesta/blob/master/docs/readme-images/Login.PNG"></p>
+  </UL>
 <!-- Features -->
 <p id="Features"><h2><font>Features</font></h2></p>
 <br>
