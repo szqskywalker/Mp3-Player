@@ -1,5 +1,5 @@
 <!-- Heading1(Title) -->
-<center><h1><font color="cyan"> Kraya-Anti </font></h1></center>
+<h1><font color="cyan"><pre>Kraya-Anti</pre></font></h1>
 
 <!-- Image logo-->
 <center><img src = "https://github.com/Spirit-ofJoy/Celesta/blob/master/docs/readme-images/logo.jpg"></center>
@@ -56,9 +56,9 @@
 <h4><font> Pre-requisites : </font></h4>
 1. Make sure you have mysql, nodejs, and react-express installed.<br>
     <center>To install mysql, nodejs and react-express refer the following links :</center><br>
-    -> https://nodejs.org/en/download/ (For Installing Node)<br>
-    -> https://react-cn.github.io/react/downloads.html (For Installing React)<br>
-    -> https://www.mysql.com/downloads/ (For Installing MySQL)<br>
+<pre>    -> https://nodejs.org/en/download/ (For Installing Node)</pre><br>
+<pre>    -> https://react-cn.github.io/react/downloads.html (For Installing React)</pre><br>
+<pre>    -> https://www.mysql.com/downloads/ (For Installing MySQL)</pre><br>
 2. Choose a good text-editor to initiate the project( Visual studio Code is recommended).<br>
 3. Make sure that your MySQL server is set to legacy configuration to avoid errors while initiating the project.<br>
 <h4><font> Initiation : </font></h4>
