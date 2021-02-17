@@ -3,9 +3,9 @@
 <h1><p align = center><font color="cyan">Kraya-Anti</font></p></h1>
 
 <!-- Image logo-->
-<center><img src = "https://github.com/Spirit-ofJoy/Celesta/blob/master/docs/readme-images/logo.jpg"></center>
+<p align = center><img src = "https://github.com/Spirit-ofJoy/Celesta/blob/master/docs/readme-images/logo.jpg"></p>
 <br>
-<font face="Helvetica" color="Red"><center>"Believes in bridging the gap between Traders and Distributors"</center></font></center>
+<p align = center><font face="Helvetica" color="Red">"Believes in bridging the gap between Traders and Distributors"</font></p>
 
 <!-- Table of contents -->
 ## Table of contents
