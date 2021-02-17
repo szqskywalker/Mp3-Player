@@ -1,5 +1,5 @@
 <!-- Heading1(Title) -->
-<h1><font color="cyan"><pre>Kraya-Anti</pre></font></h1>
+<h1><font color="cyan"><pre>Kraya-Anti</font></h1>
 
 <!-- Image logo-->
 <center><img src = "https://github.com/Spirit-ofJoy/Celesta/blob/master/docs/readme-images/logo.jpg"></center>
