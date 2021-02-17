@@ -27,12 +27,12 @@
 <!-- Description -->
 <font face = "Verdana"> This Website provides traders a simplified map based platform to look for distributors who are near to them so that desired goods be supplied at a reasonable price.</font>
 
-<p id="Built"><h4>
-    <font>
-        <U>
+<p id="Built">
+    <h4>
+        <font>
             Built With : 
-        </U>
-    </font></h4>
+        </font>
+    </h4>
 </p>
 <font face = "Verdana"> Following are the frameworks, libraries and languages used in this project :  <UL>
 <li><a href = "https://reactjs.org/"> React Express </a> 
@@ -41,7 +41,10 @@
 <li><a href = "https://developer.mozilla.org/en-US/docs/Web/CSS"> CSS </a>
 <li><a href = "https://www.mysql.com/"> MySQL </a>
 </UL></font>
-<br>
+<!-- UI-Design -->
+<p id="UI"><h2><font> User Interface Design </font></h2></p>
+## "Login Page"
+<p align = center><img src = "https://github.com/Spirit-ofJoy/Celesta/blob/master/docs/readme-images/Login.PNG"></p>
 <!-- Features -->
 <p id="Features"><h2><font>Features</font></h2></p>
 <br>
