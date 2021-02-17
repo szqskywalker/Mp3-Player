@@ -86,25 +86,28 @@
 ```bash
     git clone https://github.com/Spirit-ofJoy/Celesta.git 
 ```
+<p align = center><img src = "https://github.com/Spirit-ofJoy/Celesta/blob/master/docs/readme-images/Download.gif"></p>
 
-2. After installing the project, extract it if you have preferred installing it in zip format and open the front end sub folder in Visual Studio Code( Considering that the default text editor is Visual Studio Code).
-3. Open a new terminal by using the following command :
+2. After installing the project, extract it if you have preferred installing it in zip format and open the front end sub folder in Visual Studio Code( Considering that the default text editor is Visual Studio Code). Following this open a new terminal by using the following command :
 
 ```shell
     Ctrl+Shift+`
 ```
+<p align = center><img src = "https://github.com/Spirit-ofJoy/Celesta/blob/master/docs/readme-images/open-folder.gif"></p>
 
-4. In the terminal run the following command to install the required node modules :
+3. In the terminal run the following command to install the required node modules :
 
 ```bash
     npm install
 ```
+<p align = center><img src = "https://github.com/Spirit-ofJoy/Celesta/blob/master/docs/readme-images/npm-install.gif"></p>
 
-5. Module installation will take 2 to 3 minutes depending upon your network connectivity. After the modules have been installed run the following command to initiate the project : 
+4. Module installation will take 2 to 3 minutes depending upon your network connectivity. After the modules have been installed run the following command to initiate the project : 
 
 ```bash
     npm start
 ```
+<p align = center><img src = "https://github.com/Spirit-ofJoy/Celesta/blob/master/docs/readme-images/npm-start.gif"></p>
 
 <!-- Contributing -->
 <p id="Contributing"><h2><font> Contributing </font></h2></p>
