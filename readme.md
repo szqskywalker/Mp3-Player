@@ -86,7 +86,7 @@
     </UL>
 2. Choose a good text-editor to initiate the project( Visual studio Code is recommended).<br>
 3. Make sure that your MySQL server is set to legacy configuration to avoid errors while initiating the project.<br>
-<h4><font> Initiation : </font></h4>
+<h4><font>Front End Initiation : </font></h4>
 1. You can either install the project in zip format from our github or clone the repository using the following link in your local directory : 
 
 ```bash
@@ -101,19 +101,39 @@
 ```
 <p align = center><img src = "https://github.com/Spirit-ofJoy/Celesta/blob/master/docs/readme-images/open-folder.gif"></p>
 
-3. In the terminal run the following command to install the required node modules :
+3. In the terminal run the following command to install the required node modules for front end initiation :
 
 ```bash
     npm install
 ```
 <p align = center><img src = "https://github.com/Spirit-ofJoy/Celesta/blob/master/docs/readme-images/npm-install.gif"></p>
 
-4. Module installation will take 2 to 3 minutes depending upon your network connectivity. After the modules have been installed run the following command to initiate the project : 
+4. Module installation will take 2 to 3 minutes depending upon your network connectivity. After all the required modules have been installed, run the following command to initiate the project : 
 
 ```bash
     npm start
 ```
 <p align = center><img src = "https://github.com/Spirit-ofJoy/Celesta/blob/master/docs/readme-images/npm-start.gif"></p>
+
+<h4><font> Back End Initiation : </font></h4>
+
+1. Open the backend folder in Visual Studio Code, the same way you opened the Front End folder. Following this open a new terminal either by clicking terminal, then "New Terminal" on the top Menu Bar or run the following command : 
+
+```shell
+    Ctrl+Shift+`
+```
+
+2. In the terminal run the following command to install the required node modules for back end initiation :
+
+```bash
+    npm install
+```
+
+3. Module installation will take 2 to 3 minutes depending upon your network connectivity. After all the required modules have been installed, run the following command to initiate the project : 
+
+```bash
+    npm start
+```
 
 <!-- Contributing -->
 <p id="Contributing"><h2><font> Contributing </font></h2></p>
