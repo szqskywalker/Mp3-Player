@@ -11,17 +11,22 @@
 ## Table of contents
 <UL>
 <li> <a href="#About"> About </a>
-    <UL type = disc>
+    <UL type = square>
         <li> <a href="#Built"> Built With :</a>
     </UL>
 <li> <a href="#UI"> User Interface Design </a>
-    <UL type = disc>
+    <UL type = square>
         <li> <a href="#Login"> Login Page </a>
         <li> <a href="#Sign"> Sign-Up Page </a>
         <li> <a href="#Profile"> Profile Page </a>
     </UL>
 <li> <a href="#Features"> Features </a>
 <li> <a href="#Installation"> Installation </a>
+    <UL type = square>
+        <li> <a href="#Pre"> Pre-requisites </a>
+        <li> <a href="#Front"> Front End Initiation </a>
+        <li> <a href="#Back"> Back End Initation </a>
+    </UL>
 <li> <a href="#Contributing"> Contributing </a>
 <li> <a href="#License"> License </a>
 <li> <a href="#Developers"> Developers </a>
@@ -76,7 +81,7 @@
 </UL>
 <!-- Installation -->
 <p id="Installation"><h2><font> Installation </font></h2></p>
-<h4><font> Pre-requisites : </font></h4>
+<p id="Pre"><h4><font> Pre-requisites : </font></h4></p>
 1. Make sure you have mysql, nodejs, and react-express installed.<br>
     To install mysql, nodejs and react-express refer the following links :<br>
     <UL type = square>
@@ -86,7 +91,7 @@
     </UL>
 2. Choose a good text-editor to initiate the project( Visual studio Code is recommended).<br>
 3. Make sure that your MySQL server is set to legacy configuration to avoid errors while initiating the project.<br>
-<h4><font>Front End Initiation : </font></h4>
+<p id="Front"><h4><font>Front End Initiation : </font></h4></p>
 1. You can either install the project in zip format from our github or clone the repository using the following link in your local directory : 
 
 ```bash
@@ -115,7 +120,7 @@
 ```
 <p align = center><img src = "https://github.com/Spirit-ofJoy/Celesta/blob/master/docs/readme-images/npm-start.gif"></p>
 
-<h4><font> Back End Initiation : </font></h4>
+<p id="Back" ><h4><font> Back End Initiation : </font></h4></p>
 
 1. Open the backend folder in Visual Studio Code, the same way you opened the Front End folder. Following this open a new terminal either by clicking terminal, then "New Terminal" on the top Menu Bar or run the following command : 
 
