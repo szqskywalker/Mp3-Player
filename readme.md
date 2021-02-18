@@ -5,14 +5,20 @@
 <!-- Image logo-->
 <p align = center><img src = "https://github.com/Spirit-ofJoy/Celesta/blob/master/docs/readme-images/logo.jpg"></p>
 <br>
-<p align = center><font face="Helvetica" color="Red">"Believes in bridging the gap between Traders and Distributors"</font></p>
+<p align = center><font face="Helvetica" color="Red">"Bridges the gap between Traders and Distributors"</font></p>
 
 <!-- Table of contents -->
 ## Table of contents
 <UL>
 <li> <a href="#About"> About </a>
-    <UL>
+    <UL type = disc>
         <li> <a href="#Built"> Built With :</a>
+    </UL>
+<li> <a href="#UI"> User Interface Design </a>
+    <UL type = disc>
+        <li> <a href="#Login"> Login Page </a>
+        <li> <a href="#Sign"> Sign-Up Page </a>
+        <li> <a href="#Profile"> Profile Page </a>
     </UL>
 <li> <a href="#Features"> Features </a>
 <li> <a href="#Installation"> Installation </a>
@@ -46,11 +52,11 @@
 <p id="UI"><h2><font> User Interface Design </font></h2></p>
 <UL>
 <li><h4> Login Page </h4>
-<p align = center><img src = "https://github.com/Spirit-ofJoy/Celesta/blob/master/docs/readme-images/Login.PNG"></p>
+<p align = center id="Login"><img src = "https://github.com/Spirit-ofJoy/Celesta/blob/master/docs/readme-images/Login.PNG"></p>
 <li><h4> Sign-Up Page </h4>
-<p align = center><img src = "https://github.com/Spirit-ofJoy/Celesta/blob/master/docs/readme-images/Sign-Up%20Page%20for%20dist.PNG"></p>
+<p align = center id="Sign"><img src = "https://github.com/Spirit-ofJoy/Celesta/blob/master/docs/readme-images/Sign-Up%20Page%20for%20dist.PNG"></p>
 <li><h4> Profile Page </h4>
-<p align = center><img src = "https://github.com/Spirit-ofJoy/Celesta/blob/master/docs/readme-images/Profile%20page.png"></p>
+<p align = center id="Profile"><img src = "https://github.com/Spirit-ofJoy/Celesta/blob/master/docs/readme-images/Profile%20page.png"></p>
 </UL>
 <!-- Features -->
 <p id="Features"><h2><font>Features</font></h2></p>
