@@ -27,6 +27,7 @@
         <li> <a href="#Front"> Front End Initiation </a>
         <li> <a href="#Back"> Back End Initation </a>
     </UL>
+<li> <a href="#Bug"> Bug / Feature Request </a>
 <li> <a href="#Contributing"> Contributing </a>
 <li> <a href="#License"> License </a>
 <li> <a href="#Developers"> Developers </a>
@@ -139,7 +140,9 @@
 ```bash
     npm start
 ```
-
+<!-- Bug and feature request -->
+<p id="Bug"><h2><font> Report a Bug / Recommend a new feature : </font></h2></p>
+Feel free to file a new issue with a respective title and description on the <a href = "https://github.com/Spirit-ofJoy/Celesta/issues"> Kraya-Anti </a> repository. If you already found a solution to your problem, we would love to review your pull request!
 <!-- Contributing -->
 <p id="Contributing"><h2><font> Contributing </font></h2></p>
 Contributions are what makes the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
